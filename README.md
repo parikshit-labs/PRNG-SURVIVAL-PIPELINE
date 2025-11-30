@@ -151,6 +151,10 @@ Use this repo link in your **resume** under “Major Project” or “Portfolio�
 ## 👤 Author  
 **GitHub:** [parikshit-labs](https://github.com/parikshit-labs)
 
+<div align="center">
+Built with ⚡ data, 📊 insights, and 🎯 survival-based prediction logic.
+</div>
+
 ---
 
 <div align="center">
