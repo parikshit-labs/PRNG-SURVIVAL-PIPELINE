@@ -23,7 +23,7 @@ This repo is your **single entry point** to understand the entire system: what e
 
 ## 🧠 Full Pipeline Architecture
 
-
+<pre style="white-space: pre;">
 ┌──────────────────────────────────────────────────────────────┐
 │                       PRNG DATA SOURCE                        │
 └───────────────▲──────────────────────────────▲────────────────┘
@@ -62,7 +62,7 @@ This repo is your **single entry point** to understand the entire system: what e
  │   STREAMLIT DASHBOARD  │  │  STREAK ALERT SYSTEM   │  │ TELEGRAM PREDICTION BOT│
  │  data insights & plots │  │ detect 7/10/12+ streaks│  │ next-round predictions │
  └────────────────────────┘  └────────────────────────┘  └────────────────────────┘
-
+</pre>
 
 
 # 🔗 Component Repositories (with Demo Links)
