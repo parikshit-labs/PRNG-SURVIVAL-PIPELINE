@@ -71,9 +71,9 @@ This repo is your **single entry point** to understand the entire system: what e
 # 🔗 Component Repositories (with Demo Links)
 
 ### 1️⃣ **Hybrid PRNG Data Scraper**  
-**Repo:** https://github.com/parikshit-labs/prng-hybrid-data-scraper  
+**Repo:** [prng-hybrid-data-scraper](https://github.com/parikshit-labs/prng-hybrid-data-scraper)  
 **Sample Scraped Data:**  
-https://github.com/parikshit-labs/prng-streamlit-dashboard/blob/main/attached_assets/sample_csv_1.csv  
+[Sample CSV](https://github.com/parikshit-labs/prng-streamlit-dashboard/blob/main/attached_assets/sample_csv_1.csv)
 
 **What it does:**  
 - Hybrid WebSocket + API scraper  
@@ -84,9 +84,9 @@ https://github.com/parikshit-labs/prng-streamlit-dashboard/blob/main/attached_as
 ---
 
 ### 2️⃣ **PRNG Data Insights Dashboard (Streamlit)**  
-**Repo:** https://github.com/parikshit-labs/prng-streamlit-dashboard  
+**Repo:** [prng-streamlit-dashboard](https://github.com/parikshit-labs/prng-streamlit-dashboard)  
 **Live Demo:**  
-https://prng-app-dashboard-vgs2fwzvgxysnenlusyg88.streamlit.app/  
+[Open Streamlit Dashboard](https://prng-app-dashboard-vgs2fwzvgxysnenlusyg88.streamlit.app/)
 
 **What it does:**  
 - Visualizes 0/1 PRNG data  
@@ -97,9 +97,9 @@ https://prng-app-dashboard-vgs2fwzvgxysnenlusyg88.streamlit.app/
 ---
 
 ### 3️⃣ **Long Streak Alert System**  
-**Repo:** https://github.com/parikshit-labs/prng-streak-alert-system  
+**Repo:** [prng-streak-alert-system](https://github.com/parikshit-labs/prng-streak-alert-system)  
 **Screenshots (Alert Examples):**  
-https://github.com/parikshit-labs/prng-streak-alert-system/tree/main/screenshots  
+[Alert Screenshots](https://github.com/parikshit-labs/prng-streak-alert-system/tree/main/screenshots)
 
 **What it does:**  
 - Scans processed CSVs  
@@ -110,9 +110,9 @@ https://github.com/parikshit-labs/prng-streak-alert-system/tree/main/screenshots
 ---
 
 ### 4️⃣ **Telegram Live Prediction Bot**  
-**Repo:** https://github.com/parikshit-labs/prng-live-prediction-bot  
+**Repo:** [prng-live-prediction-bot](https://github.com/parikshit-labs/prng-live-prediction-bot)  
 **Screenshots (Bot Demo):**  
-https://github.com/parikshit-labs/prng-live-prediction-bot/tree/main/screenshots  
+[Prediction Bot Screenshots](https://github.com/parikshit-labs/prng-live-prediction-bot/tree/main/screenshots)
 
 **Bot Status:** Offline (private) — demo screenshots included  
 
@@ -127,10 +127,10 @@ https://github.com/parikshit-labs/prng-live-prediction-bot/tree/main/screenshots
 
 | Component | What It Contains | Link |
 |----------|------------------|------|
-| **Hybrid Scraper** | Real-time ingestion, MongoDB write, extractor, CSV builder | prng-hybrid-data-scraper |
-| **Dashboard** | Streamlit UI, insights, charts, sample CSV | prng-streamlit-dashboard |
-| **Alert System** | Long streak detection + alert screenshots | prng-streak-alert-system |
-| **Prediction Bot** | Bot logic + sample outputs | prng-live-prediction-bot |
+| **Hybrid Scraper** | Real-time ingestion, MongoDB write, extractor, CSV builder | [prng-hybrid-data-scraper](https://github.com/parikshit-labs/prng-hybrid-data-scraper) |
+| **Dashboard** | Streamlit UI, insights, charts, sample CSV | [prng-streamlit-dashboard](https://github.com/parikshit-labs/prng-streamlit-dashboard) |
+| **Alert System** | Long streak detection + alert screenshots | [prng-streak-alert-system](https://github.com/parikshit-labs/prng-streak-alert-system) |
+| **Prediction Bot** | Bot logic + sample outputs | [prng-live-prediction-bot](https://github.com/parikshit-labs/prng-live-prediction-bot) |
 
 ---
 
@@ -149,10 +149,12 @@ Use this repo link in your **resume** under “Major Project” or “Portfolio�
 ---
 
 ## 👤 Author  
-**GitHub:** https://github.com/parikshit-labs  
+**GitHub:** [parikshit-labs](https://github.com/parikshit-labs)
 
 ---
 
 <div align="center">
 Built with ⚡ data, 📊 insights, and 🎯 survival-based prediction logic.
 </div>
+
+
