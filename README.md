@@ -1,11 +1,11 @@
-<div align="center">
+
 
 # ⚡ PRNG Survival Prediction Pipeline  
 ### _A complete end-to-end pipeline for collecting, analyzing, and predicting PRNG (0/1) sequences._
 
-</div>
 
----
+
+
 
 ## 🚀 Overview  
 Predicting PRNG binary sequences is **not a common challenge** — it involves real-time ingestion, data transformation, streak analysis, anomaly detection, and delivering actionable predictions.
@@ -19,12 +19,11 @@ This umbrella repository links together all **four core components** of the full
 
 This repo is your **single entry point** to understand the entire system: what each part does, how the flow works, and where everything is located.
 
----
+
 
 ## 🧠 Full Pipeline Architecture
 
-```html
-<pre style="white-space: pre;">
+
 ┌──────────────────────────────────────────────────────────────┐
 │                       PRNG DATA SOURCE                        │
 └───────────────▲──────────────────────────────▲────────────────┘
@@ -63,10 +62,8 @@ This repo is your **single entry point** to understand the entire system: what e
  │   STREAMLIT DASHBOARD  │  │  STREAK ALERT SYSTEM   │  │ TELEGRAM PREDICTION BOT│
  │  data insights & plots │  │ detect 7/10/12+ streaks│  │ next-round predictions │
  └────────────────────────┘  └────────────────────────┘  └────────────────────────┘
-</pre>
 
 
----
 
 # 🔗 Component Repositories (with Demo Links)
 
@@ -81,7 +78,7 @@ This repo is your **single entry point** to understand the entire system: what e
 - Extractor converts numeric → small/big → **binary (0/1)**  
 - Produces **day-wise cleaned CSVs** used by the entire pipeline  
 
----
+
 
 ### 2️⃣ **PRNG Data Insights Dashboard (Streamlit)**  
 **Repo:** [prng-streamlit-dashboard](https://github.com/parikshit-labs/prng-streamlit-dashboard)  
@@ -94,7 +91,7 @@ This repo is your **single entry point** to understand the entire system: what e
 - Contains sample processed CSV files  
 - Publicly deployed for demonstration  
 
----
+
 
 ### 3️⃣ **Long Streak Alert System**  
 **Repo:** [prng-streak-alert-system](https://github.com/parikshit-labs/prng-streak-alert-system)  
@@ -107,7 +104,7 @@ This repo is your **single entry point** to understand the entire system: what e
 - Generates alert messages (Telegram/console)  
 - Production logic private — screenshots + demo logic provided  
 
----
+
 
 ### 4️⃣ **Telegram Live Prediction Bot**  
 **Repo:** [prng-live-prediction-bot](https://github.com/parikshit-labs/prng-live-prediction-bot)  
@@ -121,7 +118,7 @@ This repo is your **single entry point** to understand the entire system: what e
 - Implements `/start`, subscription, auto-updates  
 - Formats prediction messages as Telegram notifications  
 
----
+
 
 ## 📌 Quick “Where to Find What”
 
@@ -132,7 +129,7 @@ This repo is your **single entry point** to understand the entire system: what e
 | **Alert System** | Long streak detection + alert screenshots | [prng-streak-alert-system](https://github.com/parikshit-labs/prng-streak-alert-system) |
 | **Prediction Bot** | Bot logic + sample outputs | [prng-live-prediction-bot](https://github.com/parikshit-labs/prng-live-prediction-bot) |
 
----
+
 
 ## 📝 Summary
 
@@ -146,14 +143,14 @@ This umbrella repo gives you:
 
 Use this repo link in your **resume** under “Major Project” or “Portfolio”.
 
----
+
 
 ## 👤 Author  
 **GitHub:** [parikshit-labs](https://github.com/parikshit-labs)
 
-<div align="center">
+
 Built with ⚡ data, 📊 insights, and 🎯 survival-based prediction logic.
-</div>
+
 
 ---
 
